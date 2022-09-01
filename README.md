@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python language, project management and civil engineer
 - I’m looking to collaborate on tech project
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
           
           
 ##
